@@ -1,0 +1,26 @@
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\Google Hosts 更新器.exe.config
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts 更新器.exe
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts 更新器.pdb
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\Google Hosts 更新器.exe
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\Google Hosts 更新器.pdb
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts管理器.csproj.GenerateResource.Cache
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.FeedbackForm.resources
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.MainForm.resources
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.Properties.Resources.resources
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.SettingForm.resources
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\System.Net.Http.dll
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\System.Net.Http.xml
+G:\我的文档\C#\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts管理器.csprojResolveAssemblyReference.cache
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\Google Hosts 更新器.exe.config
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\Google Hosts 更新器.exe
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\Google Hosts 更新器.pdb
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.FeedbackForm.resources
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.MainForm.resources
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.Properties.Resources.resources
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google_Hosts_更新器.SettingForm.resources
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts管理器.csproj.GenerateResource.Cache
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts 更新器.exe
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts 更新器.pdb
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\System.Net.Http.dll
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\bin\Debug\System.Net.Http.xml
+G:\我的文档\C Sharp\窗体程序\Hosts 更新器\Hosts 更新器\obj\Debug\Google Hosts管理器.csprojResolveAssemblyReference.cache
